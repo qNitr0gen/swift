@@ -358,7 +358,7 @@
                 "swift-tools-support-core": "0.1.8",
                 "swiftpm": "3b56accc865173b0e0588b1df310e74f124c784b",
                 "swift-argument-parser": "0.2.0",
-                "swift-driver": "master",
+                "swift-driver": "162a213b29ccf1ef4d722295b002dad22ddd16db",
                 "swift-syntax": "swift-DEVELOPMENT-SNAPSHOT-2020-07-04-a",
                 "swift-stress-tester": "swift-DEVELOPMENT-SNAPSHOT-2020-07-04-a",
                 "swift-corelibs-xctest": "swift-DEVELOPMENT-SNAPSHOT-2020-07-04-a",
@@ -371,7 +371,7 @@
                 "yams": "3.0.1-patched",
                 "indexstore-db": "swift-DEVELOPMENT-SNAPSHOT-2020-07-04-a",
                 "sourcekit-lsp": "swift-DEVELOPMENT-SNAPSHOT-2020-07-04-a",
-                "PythonKit": "master",
+                "PythonKit": "b8976a9c36ca4240ae627a2ae2cbe33d35e26198",
                 "swift-format": "master",
                 "tensorflow": "v2.2.0-rc0",
                 "tensorflow-swift-apis": "tensorflow-0.11"
