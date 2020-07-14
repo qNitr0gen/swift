@@ -352,7 +352,7 @@
             "aliases": ["tensorflow"],
             "repos": {
                 "llvm-project": "366270d71a4544ed45864630ad92a18a0d3a80b5",
-                "swift": "tensorflow",
+                "swift": "tensorflow-0.11",
                 "cmark": "swift-DEVELOPMENT-SNAPSHOT-2020-07-04-a",
                 "llbuild": "swift-DEVELOPMENT-SNAPSHOT-2020-07-04-a",
                 "swift-tools-support-core": "0.1.8",
@@ -374,7 +374,7 @@
                 "PythonKit": "master",
                 "swift-format": "master",
                 "tensorflow": "v2.2.0-rc0",
-                "tensorflow-swift-apis": "master"
+                "tensorflow-swift-apis": "tensorflow-0.11"
             }
         }
     }
